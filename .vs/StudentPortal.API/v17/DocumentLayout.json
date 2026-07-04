@@ -1,0 +1,315 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\welcome\\StudentPortal.API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\mapping\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\mapping\\studentprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\repositories\\studentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\interfaces\\istudentrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\dtos\\updatestudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\dtos\\createstudentdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\middleware\\exceptionmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\migrations\\studentdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\validators\\createstudentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\validators\\createstudentdtovalidator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\auth\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\auth\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\data\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\studentportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\studentportal.api.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|d:\\welcome\\studentportal.api\\studentportal.api\\migrations\\20260622063654_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E75C4106-CC4B-4081-B271-DD77B189CC4F}|StudentPortal.API\\StudentPortal.API.csproj|solutionrelative:studentportal.api\\migrations\\20260622063654_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "RelativeToolTip": "StudentPortal.API\\Migrations\\StudentDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-07-02T06:27:17.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "StudentPortal.API\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:02:12.816Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Auth\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Auth\\JwtSettings.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Auth\\JwtSettings.cs",
+              "RelativeToolTip": "StudentPortal.API\\Auth\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T15:00:09.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Auth\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Auth\\LoginRequest.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Auth\\LoginRequest.cs",
+              "RelativeToolTip": "StudentPortal.API\\Auth\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T14:59:51.311Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ExceptionMiddleware.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Middleware\\ExceptionMiddleware.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Middleware\\ExceptionMiddleware.cs",
+              "RelativeToolTip": "StudentPortal.API\\Middleware\\ExceptionMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T07:36:50.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "CreateStudentDtoValidator.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Validators\\CreateStudentDtoValidator.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Validators\\CreateStudentDtoValidator.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Validators\\CreateStudentDtoValidator.cs",
+              "RelativeToolTip": "StudentPortal.API\\Validators\\CreateStudentDtoValidator.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T07:35:40.502Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentProfile.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Mapping\\StudentProfile.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Mapping\\StudentProfile.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Mapping\\StudentProfile.cs",
+              "RelativeToolTip": "StudentPortal.API\\Mapping\\StudentProfile.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T07:25:57.21Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateStudentDto.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\DTOs\\UpdateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\DTOs\\UpdateStudentDto.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\DTOs\\UpdateStudentDto.cs",
+              "RelativeToolTip": "StudentPortal.API\\DTOs\\UpdateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T07:24:00.961Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateStudentDto.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\DTOs\\CreateStudentDto.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\DTOs\\CreateStudentDto.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\DTOs\\CreateStudentDto.cs",
+              "RelativeToolTip": "StudentPortal.API\\DTOs\\CreateStudentDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T07:23:39.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20260622063654_InitialCreate.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Migrations\\20260622063654_InitialCreate.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Migrations\\20260622063654_InitialCreate.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Migrations\\20260622063654_InitialCreate.cs",
+              "RelativeToolTip": "StudentPortal.API\\Migrations\\20260622063654_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:36:54.592Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Program.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Program.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Program.cs",
+              "RelativeToolTip": "StudentPortal.API\\Program.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:34:25.601Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\appsettings.json",
+              "RelativeDocumentMoniker": "StudentPortal.API\\appsettings.json",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\appsettings.json",
+              "RelativeToolTip": "StudentPortal.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-06-22T06:33:43.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentRepository.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Repositories\\StudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Repositories\\StudentRepository.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Repositories\\StudentRepository.cs",
+              "RelativeToolTip": "StudentPortal.API\\Repositories\\StudentRepository.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAAADgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:16:03.52Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IStudentRepository.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Interfaces\\IStudentRepository.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Interfaces\\IStudentRepository.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Interfaces\\IStudentRepository.cs",
+              "RelativeToolTip": "StudentPortal.API\\Interfaces\\IStudentRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:13:22.627Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Data\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Data\\StudentDbContext.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Data\\StudentDbContext.cs",
+              "RelativeToolTip": "StudentPortal.API\\Data\\StudentDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:09:47.177Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Models\\Student.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Models\\Student.cs",
+              "RelativeToolTip": "StudentPortal.API\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:05:33.114Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "StudentPortal.API.csproj",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\StudentPortal.API.csproj",
+              "RelativeDocumentMoniker": "StudentPortal.API\\StudentPortal.API.csproj",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\StudentPortal.API.csproj",
+              "RelativeToolTip": "StudentPortal.API\\StudentPortal.API.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-06-22T06:05:04.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "StudentPortal.API\\Controllers\\StudentController.cs",
+              "ToolTip": "D:\\welcome\\StudentPortal.API\\StudentPortal.API\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "StudentPortal.API\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-22T06:04:51.195Z"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
