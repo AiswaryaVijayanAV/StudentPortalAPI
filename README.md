@@ -111,16 +111,6 @@ Replace `xxxx` with your application's port number.
 
 ---
 
-## 📷 Screenshots
-
-You can add screenshots of:
-
-- Swagger UI
-- SQL Server Database
-- API Responses
-
----
-
 ## 📚 Learning Outcomes
 
 This project demonstrates:
